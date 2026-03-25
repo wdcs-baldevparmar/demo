@@ -1,0 +1,6 @@
+[submodule "apps/web"]
+	path = apps/web
+	url = git@github.com:wdcs-amitchauhan/wdcs-nextdemo.git
+[submodule "apps/backend"]
+	path = apps/backend
+	url = git@github.com:wdcs-amitchauhan/wdcs-neststructure.git
